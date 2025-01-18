@@ -26,7 +26,13 @@
     "url": "https://infynno.com"
   },
   "tabs": [],
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "Company Policies",
+      "icon": "book-open-cover",
+      "url": "https://tasks.infynno.com"
+    }
+  ],
   "navigation": [
     {
       "group": "Introduction",
@@ -73,6 +79,10 @@
         "recruitment-and-onboarding/interview-process",
         "recruitment-and-onboarding/onboarding-process"
       ]
+    },
+    {
+      "group": "Product Development",
+      "pages": ["product-development/product-development"]
     }
   ],
   "footerSocials": {
