@@ -54,6 +54,25 @@
         "structure/reporting-hierarchies",
         "structure/cross-functional-teams"
       ]
+    },
+    {
+      "group": "Recruitment and Onboarding",
+      "pages": [
+        {
+          "group": "Requirements for Joining",
+          "icon": "id-card-clip",
+          "iconType": "solid",
+          "pages": [
+            "recruitment-and-onboarding/requirements-for-joining/technical-lead",
+            "recruitment-and-onboarding/requirements-for-joining/senior-software-engineer",
+            "recruitment-and-onboarding/requirements-for-joining/software-engineer",
+            "recruitment-and-onboarding/requirements-for-joining/software-engineering-intern",
+            "recruitment-and-onboarding/requirements-for-joining/ui-ux-designer"
+          ]
+        },
+        "recruitment-and-onboarding/interview-process",
+        "recruitment-and-onboarding/onboarding-process"
+      ]
     }
   ],
   "footerSocials": {
