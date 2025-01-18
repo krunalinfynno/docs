@@ -87,6 +87,10 @@
     {
       "group": "Performance Management",
       "pages": ["performance-management/performance-management"]
+    },
+    {
+      "group": "Reporting and Communication",
+      "pages": ["reporting-and-communication/reporting-and-communication"]
     }
   ],
   "footerSocials": {
