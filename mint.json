@@ -35,6 +35,25 @@
         "introduction/purpose",
         "introduction/vision"
       ]
+    },
+    {
+      "group": "Organizational Structure",
+      "pages": [
+        {
+          "group": "Roles and Responsibilities",
+          "icon": "users",
+          "iconType": "solid",
+          "pages": [
+            "structure/roles-and-responsibilities/leadership",
+            "structure/roles-and-responsibilities/management",
+            "structure/roles-and-responsibilities/product-management",
+            "structure/roles-and-responsibilities/developers",
+            "structure/roles-and-responsibilities/designers"
+          ]
+        },
+        "structure/reporting-hierarchies",
+        "structure/cross-functional-teams"
+      ]
     }
   ],
   "footerSocials": {
