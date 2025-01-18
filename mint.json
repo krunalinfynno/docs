@@ -83,6 +83,10 @@
     {
       "group": "Product Development",
       "pages": ["product-development/product-development"]
+    },
+    {
+      "group": "Performance Management",
+      "pages": ["performance-management/performance-management"]
     }
   ],
   "footerSocials": {
