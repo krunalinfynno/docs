@@ -82,7 +82,10 @@
     },
     {
       "group": "Product Development",
-      "pages": ["product-development/product-development"]
+      "pages": [
+        "product-development/product-lifecycle",
+        "product-development/pull-request"
+      ]
     },
     {
       "group": "Performance Management",
