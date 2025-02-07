@@ -93,7 +93,17 @@
     },
     {
       "group": "Reporting and Communication",
-      "pages": ["reporting-and-communication/reporting-and-communication"]
+      "pages": [
+        "reporting-and-communication/reporting-and-communication",
+        {
+          "group": "Email Templates",
+          "icon": "inbox",
+          "iconType": "solid",
+          "pages": [
+            "reporting-and-communication/email-templates/sprint-retrospective"
+          ]
+        }
+      ]
     }
   ],
   "footerSocials": {
