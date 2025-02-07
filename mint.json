@@ -101,7 +101,8 @@
           "iconType": "solid",
           "pages": [
             "reporting-and-communication/email-templates/weekly-sprint-report",
-            "reporting-and-communication/email-templates/sprint-retrospective"
+            "reporting-and-communication/email-templates/sprint-retrospective",
+            "reporting-and-communication/email-templates/monthly-project-report"
           ]
         }
       ]
