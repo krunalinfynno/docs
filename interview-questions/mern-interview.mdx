@@ -1,0 +1,43 @@
+---
+title: "MERN Interview Questions"
+---
+
+1\. What is the difference between `==` and `===` in JavaScript?
+
+**Answer:**
+`==` checks for value equality, allowing type coercion, while `===` checks for both value and type equality.
+
+```javascript
+console.log(5 == "5");  // true  (type coercion)
+console.log(5 === "5"); // false (strict comparison)
+```
+
+2\. What is the output of the following?
+
+```javascript
+console.log([] + {});
+console.log({} + []);
+```
+
+**Answer:**
+
+```javascript
+console.log([] + {}); // "[object Object]"
+console.log({} + []); // 0 (in a browser) or "[object Object]" (in Node.js)
+```
+
+3\. Explain event loop in JavaScript.
+
+**Answer:**
+JavaScript uses an **event loop** to handle asynchronous operations. It continuously checks the **call stack** and **callback queue**:
+
+* If the stack is empty, it moves tasks from the queue (like `setTimeout`, Promises, or API calls) into the stack for execution.
+
+4\. What is the output of the following?
+
+```javascript
+console.log(1);
+setTimeout(() => console.log(2), 0);
+Promise.resolve().then(() => console.log(3));
+console.log(4);
+```
